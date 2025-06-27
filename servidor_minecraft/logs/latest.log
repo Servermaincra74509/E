@@ -2704,3 +2704,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 16:51:12.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [27Jun2025 16:51:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
 [27Jun2025 16:51:12.151] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 16:51:29.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[27Jun2025 16:51:29.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[27Jun2025 16:52:57.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:39307] logged in with entity id 5597 at (-105.04995652039639, -44.82324072493576, 1314.9935861898384)
+[27Jun2025 16:52:57.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 16:53:08.604] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@76f6ed66[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:35865): Took too long to log in
+[27Jun2025 16:53:08.605] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76f6ed66[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:35865) lost connection: Took too long to log in
+[27Jun2025 16:53:08.653] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 16:53:55.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:42605] logged in with entity id 6207 at (1507.387124270566, 128.9215999984741, -111.64806901662318)
+[27Jun2025 16:53:55.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 17:00:06.221] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wall_of_fire
+[27Jun2025 17:00:06.222] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.WallOfFireSpell@69540e53
