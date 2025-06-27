@@ -2780,3 +2780,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 02:47:03.245] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [27Jun2025 02:47:36.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:35771] logged in with entity id 9432 at (-1083.1677268622411, 132.47334062504456, 1774.7003682714776)
 [27Jun2025 02:47:36.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 02:49:36.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[27Jun2025 02:49:36.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[27Jun2025 02:50:52.283] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@14c1076a[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:53005) lost connection: Disconnected
+[27Jun2025 02:51:26.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:58021] logged in with entity id 10801 at (-1382.4399422699837, 0.0, 2276.227723188038)
+[27Jun2025 02:51:26.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 02:52:22.635] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wall_of_fire
+[27Jun2025 02:52:22.635] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.WallOfFireSpell@69540e53
+[27Jun2025 02:57:01.841] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firefly_swarm
+[27Jun2025 02:57:01.841] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.FireflySwarmSpell@e01e560
+[27Jun2025 02:57:56.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Alex's Caves]
