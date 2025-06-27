@@ -2861,3 +2861,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 18:06:50.541] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireBreathSpell@761116b3
 [27Jun2025 18:08:27.496] [Server thread/INFO] [irons_spells_js/]: traveloptics:meteor_storm
 [27Jun2025 18:08:27.496] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.fire.MeteorStormSpell@376b9f6
+[27Jun2025 18:17:44.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 1.3305584808699678,-1.0,-17.369123523314556
