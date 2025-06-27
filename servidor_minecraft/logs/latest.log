@@ -2870,3 +2870,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 18:37:27.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Bat Mode]
 [27Jun2025 18:39:24.896] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ray_of_siphoning
 [27Jun2025 18:39:24.896] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RayOfSiphoningSpell@c5ef394c
+[27Jun2025 18:55:49.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was turned into KFC by a dragon
+[27Jun2025 18:56:42.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Mother of Dragons]
+[27Jun2025 18:57:12.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Mother of Dragons]
+[27Jun2025 18:59:39.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Bat Mode]
+[27Jun2025 19:00:18.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[27Jun2025 19:00:18.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 19:00:29.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:49733] logged in with entity id 48241 at (-946.0903898843477, -3.0, 2380.172640806717)
+[27Jun2025 19:00:29.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 19:00:59.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[27Jun2025 19:00:59.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 19:01:11.563] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:58127] logged in with entity id 48362 at (-946.0903898843477, -3.0, 2380.172640806717)
+[27Jun2025 19:01:11.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 19:01:41.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[27Jun2025 19:01:41.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 19:01:52.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:50283] logged in with entity id 48486 at (-947.4906190983421, -3.0, 2375.563748693988)
+[27Jun2025 19:01:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 19:03:39.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-931, y=67, z=2347} BlockPos{x=-930, y=66, z=2347}
+[27Jun2025 19:03:40.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-931, y=67, z=2347} BlockPos{x=-930, y=66, z=2347}
