@@ -2689,3 +2689,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 16:34:41.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
 [27Jun2025 16:36:49.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
 [27Jun2025 16:36:49.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 16:41:10.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:40905] logged in with entity id 483 at (0.13449384377516627, 66.0, 0.5480324510081237)
+[27Jun2025 16:41:10.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 16:44:03.202] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65029008[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:50479) lost connection: Disconnected
+[27Jun2025 16:44:28.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:38213] logged in with entity id 1355 at (1663.300000011921, 144.0, -320.58651996254497)
+[27Jun2025 16:44:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 16:45:40.636] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:heal
+[27Jun2025 16:45:40.636] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealSpell@9f925e12
+[27Jun2025 16:45:56.053] [Server thread/INFO] [irons_spells_js/]: traveloptics:tsunami
+[27Jun2025 16:45:56.053] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.TsunamiSpell@4fb5eac5
+[27Jun2025 16:47:35.042] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firebolt
+[27Jun2025 16:47:35.043] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.FireboltSpell@7dcdb5f5
+[27Jun2025 16:49:32.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Casa:C:1104:74:-6:9:false:0:Internal-the-end-waypoints
+[27Jun2025 16:51:12.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[27Jun2025 16:51:12.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 16:51:12.151] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
