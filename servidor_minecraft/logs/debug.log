@@ -15606,3 +15606,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 18:17:44.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 1.3305584808699678,-1.0,-17.369123523314556
 [27Jun2025 18:18:42.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 18:18:43.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 18:23:29.844] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Zairac74509 has new faction level vampirism:vampire 1
+[27Jun2025 18:23:42.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 18:23:43.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 18:25:20.741] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[27Jun2025 18:28:42.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 18:28:43.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 18:28:52.692] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [71728cdf-b055-3a89-85ee-2e83a7ed91c8]
+[27Jun2025 18:28:52.692] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:root
+[27Jun2025 18:28:52.692] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.RootSpell@9f97110c
+[27Jun2025 18:29:51.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Blood Bank]
+[27Jun2025 18:31:30.491] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/43127, l='ServerLevel[world]', x=-937.39, y=14.00, z=2345.82]
+[27Jun2025 18:31:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Bloody Stream]
+[27Jun2025 18:32:40.641] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Zairac74509 has new faction level vampirism:vampire 2

@@ -4836,12 +4836,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/betrayal": {
-    "criteria": {
-      "kill": "2025-06-24 22:50:59 +0000"
-    },
-    "done": false
-  },
   "alexscaves:alexscaves/discover_candy_cavity": {
     "criteria": {
       "discover": "2025-06-24 22:52:24 +0000"
@@ -10322,6 +10316,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/blood_cult": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
@@ -10333,6 +10333,12 @@
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/freeze_kill": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
   },
   "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
     "criteria": {
@@ -10369,6 +10375,12 @@
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/resurrect": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
@@ -10412,6 +10424,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
@@ -10429,6 +10447,12 @@
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/yuck": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
@@ -10496,11 +10520,23 @@
     },
     "done": true
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-27 17:40:21 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/kill_mother": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
@@ -10513,6 +10549,12 @@
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
     },
     "done": true
+  },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
@@ -10547,6 +10589,18 @@
   "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-27 17:40:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/sniped": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
+    },
+    "done": false
+  },
+  "vampirism:vampire/become_vampire": {
+    "criteria": {
+      "main": "2025-06-27 18:23:29 +0000"
     },
     "done": true
   },
