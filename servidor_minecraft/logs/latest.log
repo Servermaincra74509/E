@@ -3203,3 +3203,131 @@ java.lang.Throwable: null
 [27Jun2025 19:33:44.994] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@18c46713[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:34565) lost connection: Disconnected
 [27Jun2025 19:34:17.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:39319] logged in with entity id 77229 at (-0.6353283859514898, 64.0, 126.95678297782624)
 [27Jun2025 19:34:17.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 19:35:15.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:gui.xaero-deathpoint:D:101:117:3641:0:false:0:Internal-overworld-waypoints
+[27Jun2025 19:35:32.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/77409, l='ServerLevel[world]', x=-1536.83, y=67.00, z=2878.93]
+[27Jun2025 19:37:57.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was struck with lightning by a dragon
+[27Jun2025 19:38:47.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[27Jun2025 19:38:47.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 0.3754971678322505,0.0,10.336827974909738
+[27Jun2025 19:38:54.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Covered in Moss]
+[27Jun2025 19:38:59.675] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 19:38:59.676] [Worker-Main-36/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[27Jun2025 19:40:28.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:114:72:3042:10:false:0:Internal-overworld-waypoints
+[27Jun2025 19:41:19.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Disconnected
+[27Jun2025 19:41:19.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[27Jun2025 19:42:33.900] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4d9ca449[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:35141): Took too long to log in
+[27Jun2025 19:42:33.900] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d9ca449[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:35141) lost connection: Took too long to log in
+[27Jun2025 19:42:33.947] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 19:43:24.403] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4db59424[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:47949): Took too long to log in
+[27Jun2025 19:43:24.403] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4db59424[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:47949) lost connection: Took too long to log in
+[27Jun2025 19:43:24.451] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 19:44:02.531] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:48867] logged in with entity id 90756 at (86.3911828368867, 112.0, 3462.5576066252183)
+[27Jun2025 19:44:02.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 19:44:40.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! 1.2833427474961354,-10.61202295686212,-1.45967149535727
+[27Jun2025 19:46:06.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Praise the Sun]
+[27Jun2025 19:48:59.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [We do a little trolling...]
+[27Jun2025 19:50:50.575] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=-211, y=8, z=3029}
+[27Jun2025 19:51:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Chest Slayer]
+[27Jun2025 19:51:45.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3118340829748263
+[27Jun2025 19:51:46.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9503990234920768
+[27Jun2025 19:51:46.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.4095715150493196
+[27Jun2025 19:51:46.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.2866528911108315
+[27Jun2025 19:51:46.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.317025469912494
+[27Jun2025 19:51:54.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.35621900331943834
+[27Jun2025 19:51:54.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.8894325113151353
+[27Jun2025 19:51:54.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[27Jun2025 19:51:54.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[27Jun2025 19:51:54.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[27Jun2025 19:51:54.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[27Jun2025 19:51:55.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3653236553100214
+[27Jun2025 19:51:55.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7569041538250758
+[27Jun2025 19:51:55.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9077513780658251
+[27Jun2025 19:51:55.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.8911831420585372
+[27Jun2025 19:51:55.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.775819889213551
+[27Jun2025 19:51:56.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.4317306580260265
+[27Jun2025 19:51:56.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.3364608820625108
+[27Jun2025 19:51:56.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6935224167900174
+[27Jun2025 19:51:56.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9604807677373515
+[27Jun2025 19:51:56.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.34556958325219966
+[27Jun2025 19:51:56.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.8846914896983549
+[27Jun2025 19:51:56.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.5273793852686026
+[27Jun2025 19:51:56.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.2246757501962975
+[27Jun2025 19:51:57.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9511920183017537
+[27Jun2025 19:51:57.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3856378001946723
+[27Jun2025 19:51:57.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.2352324795087952
+[27Jun2025 19:51:57.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.102009518158866
+[27Jun2025 19:51:57.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.977497417068207
+[27Jun2025 19:51:57.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.6237564416452983
+[27Jun2025 19:52:38.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2527984874768663
+[27Jun2025 19:52:39.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0567553176488014
+[27Jun2025 19:52:39.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.968258266492482
+[27Jun2025 19:52:39.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.905817592529588
+[27Jun2025 19:52:40.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.43592442224007755
+[27Jun2025 19:52:41.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.1032155287462047
+[27Jun2025 19:52:41.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.8933157603978543
+[27Jun2025 19:52:41.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.748342949484595
+[27Jun2025 19:52:41.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 3.2490363224092107
+[27Jun2025 19:52:41.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.2595239273223342
+[27Jun2025 19:52:41.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.1859274357548202
+[27Jun2025 19:52:42.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.1130654441499246
+[27Jun2025 19:52:42.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.041284311671916
+[27Jun2025 19:52:42.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.975471502660639
+[27Jun2025 19:52:42.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.45066187462765583
+[27Jun2025 19:52:42.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.26839214291678104
+[27Jun2025 19:52:42.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.30408738703408744
+[27Jun2025 19:52:42.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7703955658262203
+[27Jun2025 19:52:42.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.3612208437275963
+[27Jun2025 19:52:43.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6387797661262482
+[27Jun2025 19:52:43.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.5698804604129748
+[27Jun2025 19:52:43.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.5069035179056414
+[27Jun2025 19:52:43.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.44709551387063584
+[27Jun2025 19:52:43.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6608148496003423
+[27Jun2025 19:52:45.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.42357356268803414
+[27Jun2025 19:52:45.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3425626136340725
+[27Jun2025 19:52:45.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.37895209356048554
+[27Jun2025 19:52:45.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3806709383793816
+[27Jun2025 19:52:45.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9657125775549105
+[27Jun2025 19:52:45.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.0
+[27Jun2025 19:52:45.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.3813522098084263
+[27Jun2025 19:52:45.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.9271605004983314
+[27Jun2025 19:52:45.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.43747170554115655
+[27Jun2025 19:52:45.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7760829530816409
+[27Jun2025 19:52:45.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.6353625204101263
+[27Jun2025 19:52:46.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.30525414932242256
+[27Jun2025 19:52:46.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.626822188201885
+[27Jun2025 19:52:46.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.440400342409049
+[27Jun2025 19:52:46.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.6443797448721966
+[27Jun2025 19:52:46.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.8602923191895684
+[27Jun2025 19:52:46.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.801168830398737
+[27Jun2025 19:52:46.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7450481845288408
+[27Jun2025 19:52:49.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.7421027999725993
+[27Jun2025 19:52:50.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.6521685461630113
+[27Jun2025 19:52:50.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.580121900251015
+[27Jun2025 19:52:50.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5176258173087263
+[27Jun2025 19:53:02.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.4192651507902383
+[27Jun2025 19:53:08.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.5273389712164089
+[27Jun2025 19:53:08.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 1.2599735010612334
+[27Jun2025 19:53:08.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 2.102774741834976
+[27Jun2025 19:53:08.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 3.000196219928255
+[27Jun2025 19:53:08.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 3.9208368041633057
+[27Jun2025 19:53:09.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of camilxdk1) moved wrongly! 0.27659689181743374
+[27Jun2025 19:53:18.708] [Server thread/INFO] [irons_spells_js/]: traveloptics:vortex_of_the_deep
+[27Jun2025 19:53:18.709] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.aqua.VortexOfTheDeepSpell@3bc548b1
+[27Jun2025 19:55:37.428] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/99493, l='ServerLevel[world]', x=120.35, y=72.00, z=3057.52] died, message: 'Nitwit was struck by camilxdk1's shooting stars'
+[27Jun2025 19:55:39.412] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/99490, l='ServerLevel[world]', x=120.10, y=72.00, z=3059.65] died, message: 'Scribe was struck by camilxdk1's shooting stars'
+[27Jun2025 19:59:23.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Book of Monsters]
+[27Jun2025 19:59:29.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Would you Like to Know More?]
+[27Jun2025 20:02:27.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/99544, l='ServerLevel[world]', x=146.52, y=73.00, z=3038.60] died, message: 'Nitwit was slain by Zombie'
+[27Jun2025 20:03:14.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[27Jun2025 20:03:14.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 20:03:17.740] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/99540, l='ServerLevel[world]', x=85.20, y=81.00, z=3001.69] died, message: 'Hunter hit the ground too hard whilst trying to escape Zombie'
+[27Jun2025 20:03:19.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[27Jun2025 20:03:19.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[27Jun2025 20:03:27.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:49477] logged in with entity id 105537 at (169.6165158829901, 100.0, 2977.7792971038407)
+[27Jun2025 20:03:27.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 20:03:57.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[27Jun2025 20:03:57.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 20:04:30.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:59903] logged in with entity id 105974 at (169.6165158829901, 100.0, 2977.7792971038407)
+[27Jun2025 20:04:30.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 20:04:52.007] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3838be21[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:42277): Took too long to log in
+[27Jun2025 20:04:52.008] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3838be21[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:42277) lost connection: Took too long to log in
+[27Jun2025 20:04:52.054] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
