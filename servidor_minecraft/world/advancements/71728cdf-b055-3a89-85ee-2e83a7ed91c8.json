@@ -10316,6 +10316,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-06-27 18:53:42 +0000"
+    },
+    "done": false
+  },
   "vampirism:vampire/blood_cult": {
     "criteria": {
       "main": "2025-06-27 18:23:29 +0000"
@@ -10364,6 +10370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_the_recipe": "2025-06-27 18:47:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-27 17:40:21 +0000"
@@ -10373,6 +10385,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_blue_wool": {
+    "criteria": {
+      "has_blue_wool": "2025-06-27 18:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-06-27 18:47:07 +0000"
     },
     "done": true
   },
@@ -10473,6 +10497,12 @@
     },
     "done": true
   },
+  "vampiresdelight:recipes/building_blocks/blue_bar_stool": {
+    "criteria": {
+      "has_blue_wool": "2025-06-27 18:47:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-27 17:40:21 +0000"
@@ -10488,6 +10518,12 @@
   "vampirism:recipes/decorations/general/blood_sieve": {
     "criteria": {
       "has_cauldron": "2025-06-27 17:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-06-27 18:47:07 +0000"
     },
     "done": true
   },
@@ -10537,6 +10573,24 @@
   "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-27 17:40:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_blue": {
+    "criteria": {
+      "has_wool": "2025-06-27 18:47:07 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blue_flag": {
+    "criteria": {
+      "has_blue_flag": "2025-06-27 18:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-06-27 18:47:07 +0000"
     },
     "done": true
   },
@@ -10606,6 +10660,12 @@
       "main": "2025-06-27 18:23:29 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/decorations/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-27 18:47:07 +0000"
+    },
+    "done": true
   },
   "vampirism:vampire/become_vampire": {
     "criteria": {

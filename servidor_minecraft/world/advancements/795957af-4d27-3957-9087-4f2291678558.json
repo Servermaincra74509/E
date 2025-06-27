@@ -8013,6 +8013,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-06-27 18:43:47 +0000"
+    },
+    "done": true
+  },
   "vampiresdelight:recipes/food/cooked_bat_from_smoking": {
     "criteria": {
       "cooked_bat": "2025-06-27 18:08:36 +0000"
