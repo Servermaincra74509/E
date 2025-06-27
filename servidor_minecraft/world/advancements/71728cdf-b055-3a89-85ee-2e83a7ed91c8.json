@@ -9231,77 +9231,95 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_log": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "cfm:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_planks": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_log": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "cfm:recipes/decorations/stripped_spruce_crate": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_planks": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_log": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_planks": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_log": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_log": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_planks": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_log": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "cfm:recipes/decorations/stripped_spruce_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_planks": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
-      "log_spam_fixer": "2025-06-27 02:26:30 +0000"
+      "has_log": "2025-06-27 02:27:34 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-27 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-06-27 02:27:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-06-27 02:27:34 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
