@@ -2715,3 +2715,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 16:53:55.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
 [27Jun2025 17:00:06.221] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wall_of_fire
 [27Jun2025 17:00:06.222] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.fire.WallOfFireSpell@69540e53
+[27Jun2025 17:03:51.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[27Jun2025 17:03:51.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 17:05:29.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:60655] logged in with entity id 10622 at (-20.72079820665564, -21.0, 1442.699999988079)
+[27Jun2025 17:05:29.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 17:05:44.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[27Jun2025 17:05:55.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Disconnected
+[27Jun2025 17:05:55.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 17:06:08.751] [Server thread/INFO] [irons_spells_js/]: traveloptics:rapid_laser
+[27Jun2025 17:06:08.752] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.spells.lightning.RapidLaserSpell@35a43f28
+[27Jun2025 17:06:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Chest Slayer]
+[27Jun2025 17:06:42.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Amateur Archaeologist]
+[27Jun2025 17:08:14.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:41861] logged in with entity id 11358 at (-19.147083608538246, -21.0, 1442.699999988079)
+[27Jun2025 17:08:14.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 17:08:36.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[27Jun2025 17:09:46.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Caniac
+[27Jun2025 17:13:57.645] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:none
+[27Jun2025 17:13:57.646] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.NoneSpell@9f953f62
+[27Jun2025 17:15:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Dungeon Delving]
+[27Jun2025 17:18:15.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[27Jun2025 17:18:15.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 17:18:15.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was slain by Caniac
+[27Jun2025 17:18:50.995] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:raise_dead
+[27Jun2025 17:18:50.996] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RaiseDeadSpell@a68f3101
+[27Jun2025 17:18:52.497] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[27Jun2025 17:18:52.497] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[27Jun2025 17:19:12.850] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56245189[id=<null>,name=Zairac74509,properties={},legacy=false] (/127.94.87.232:39771) lost connection: Disconnected
+[27Jun2025 17:19:20.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:53563] logged in with entity id 18160 at (-40.16910657820921, -47.0, 1379.2847021355208)
+[27Jun2025 17:19:20.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 17:19:29.093] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:icicle
+[27Jun2025 17:19:29.093] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ice.IcicleSpell@5832bc57
+[27Jun2025 17:19:39.204] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:fang_strike
+[27Jun2025 17:19:39.205] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.FangStrikeSpell@6f9ac2c7
+[27Jun2025 17:19:42.692] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[27Jun2025 17:19:42.692] [Server thread/WARN] [de.teamlapen.werewolves.entities.ModEntityEventHandler/]: Could not replace skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[27Jun2025 17:19:43.140] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:magic_missile
+[27Jun2025 17:19:43.140] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.ender.MagicMissileSpell@546364be
+[27Jun2025 17:19:48.196] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ball_lightning
+[27Jun2025 17:19:48.196] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.lightning.BallLightningSpell@5586b0b4
+[27Jun2025 17:19:50.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[27Jun2025 17:19:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 17:20:07.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:38715] logged in with entity id 18397 at (-40.16910657820921, -47.0, 1379.2847021355208)
+[27Jun2025 17:20:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 17:20:08.252] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Zairac74509'/18397, l='ServerLevel[world]', x=-40.17, y=-47.00, z=1379.28, removed=KILLED]
+[27Jun2025 17:20:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Cavidad De Dulce:C:-49:1:1203:2:false:0:Internal-overworld-waypoints

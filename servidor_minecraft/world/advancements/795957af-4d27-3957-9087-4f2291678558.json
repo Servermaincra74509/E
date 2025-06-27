@@ -106,6 +106,7 @@
       "erupting_inferno": "2025-06-26 19:38:24 +0000",
       "highland": "2025-06-25 23:33:18 +0000",
       "jacaranda_glade": "2025-06-26 18:24:44 +0000",
+      "old_growth_woodland": "2025-06-27 17:12:53 +0000",
       "orchard": "2025-06-24 23:11:22 +0000",
       "overgrown_greens": "2025-06-25 22:57:39 +0000",
       "spider_nest": "2025-06-24 21:56:20 +0000",
@@ -584,6 +585,7 @@
       "minecraft:ocean": "2025-06-26 18:48:16 +0000",
       "minecraft:frozen_peaks": "2025-06-24 22:25:24 +0000",
       "minecraft:meadow": "2025-06-24 23:09:29 +0000",
+      "minecraft:savanna": "2025-06-27 17:16:37 +0000",
       "minecraft:plains": "2025-06-24 22:12:08 +0000"
     },
     "done": false
@@ -7957,6 +7959,84 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2025-06-27 04:13:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-06-27 17:00:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/crimson_banister": {
+    "criteria": {
+      "has_item": "2025-06-27 17:00:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-06-27 17:09:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-06-27 17:15:23 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-27 17:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-27 17:00:31 +0000"
+    },
+    "done": true
+  },
+  "vampiresdelight:recipes/building_blocks/crimson_wine_shelf": {
+    "criteria": {
+      "has_crimson_slab": "2025-06-27 17:00:31 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-27 17:06:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-06-27 17:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-27 17:09:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-06-27 17:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-27 17:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-27 17:09:32 +0000"
     },
     "done": true
   },
