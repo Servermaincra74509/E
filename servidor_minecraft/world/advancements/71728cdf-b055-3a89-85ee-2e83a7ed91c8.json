@@ -4621,7 +4621,8 @@
     "criteria": {
       "brewingstand": "2025-06-24 22:29:55 +0000",
       "smithingtable": "2025-06-26 01:33:26 +0000",
-      "blastfurnace": "2025-06-27 03:01:09 +0000"
+      "blastfurnace": "2025-06-27 03:01:09 +0000",
+      "cauldron": "2025-06-27 17:56:38 +0000"
     },
     "done": false
   },
@@ -10447,6 +10448,18 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-06-27 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_sieve": {
+    "criteria": {
+      "has_cauldron": "2025-06-27 17:56:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
@@ -10462,6 +10475,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-27 18:04:00 +0000"
     },
     "done": true
   },
@@ -10534,6 +10553,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-27 17:46:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-27 18:04:00 +0000"
     },
     "done": true
   },
