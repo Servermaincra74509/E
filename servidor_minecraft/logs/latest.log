@@ -2871,3 +2871,7 @@ java.lang.Throwable: null
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [27Jun2025 03:44:26.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! 1400.2822382640402,24.26590000152588,-2286.816308068884
 [27Jun2025 03:49:19.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 fell from a high place
+[27Jun2025 03:50:34.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Remote Getaway]
+[27Jun2025 03:53:37.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Remote Getaway]
+[27Jun2025 03:57:08.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Strengthened by Fire]
+[27Jun2025 03:57:14.838] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils

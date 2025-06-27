@@ -9683,11 +9683,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-06-27 03:14:00 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-27 03:57:21 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
@@ -9725,15 +9737,39 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-27 03:53:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-06-27 03:09:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-27 03:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-27 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-27 03:56:26 +0000"
     },
     "done": true
   },
@@ -9761,6 +9797,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-27 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-06-27 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-27 03:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-06-27 03:34:58 +0000"
@@ -9779,6 +9839,12 @@
     },
     "done": true
   },
+  "stellarity:exploration/ender_adventurer": {
+    "criteria": {
+      "end_barrens": "2025-06-27 03:53:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
@@ -9791,6 +9857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-27 03:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
@@ -9800,6 +9872,12 @@
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed_by": "2025-06-27 03:30:02 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/purpur_altar": {
+    "criteria": {
+      "has_end_stone": "2025-06-27 03:57:21 +0000"
     },
     "done": true
   },
@@ -9818,6 +9896,12 @@
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2025-06-27 03:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-06-27 03:56:25 +0000"
     },
     "done": true
   },
@@ -9842,6 +9926,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-06-27 03:56:25 +0000"
     },
     "done": true
   },
@@ -9887,6 +9977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
@@ -9917,6 +10013,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-06-27 03:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
@@ -9926,6 +10034,24 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2025-06-27 03:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-27 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/glass_from_end_stone": {
+    "criteria": {
+      "has_item": "2025-06-27 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-27 03:57:21 +0000"
     },
     "done": true
   },
