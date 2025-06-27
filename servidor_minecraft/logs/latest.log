@@ -2867,3 +2867,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 18:29:51.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Blood Bank]
 [27Jun2025 18:31:30.491] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SummonedHorse['Spectral Steed'/43127, l='ServerLevel[world]', x=-937.39, y=14.00, z=2345.82]
 [27Jun2025 18:31:37.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Bloody Stream]
+[27Jun2025 18:37:27.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Bat Mode]
+[27Jun2025 18:39:24.896] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:ray_of_siphoning
+[27Jun2025 18:39:24.896] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.RayOfSiphoningSpell@c5ef394c
