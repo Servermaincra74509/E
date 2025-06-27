@@ -2815,3 +2815,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 03:24:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Final Showdown]
 [27Jun2025 03:24:29.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Final Showdown]
 [27Jun2025 03:28:07.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Take Aim]
+[27Jun2025 03:29:24.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Ender Distancing]
+[27Jun2025 03:30:00.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[27Jun2025 03:30:00.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[27Jun2025 03:30:02.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Ender Distancing]
+[27Jun2025 03:30:05.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Race Against The Clock]
+[27Jun2025 03:30:05.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Capsid-19]
+[27Jun2025 03:31:07.791] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:38369] logged in with entity id 19746 at (36.19037064034164, 51.0, 35.587945670948)
+[27Jun2025 03:31:07.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 03:31:07.843] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@bfc6ce5[id=795957af-4d27-3957-9087-4f2291678558,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:38369): Took too long to log in
+[27Jun2025 03:31:08.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Took too long to log in
+[27Jun2025 03:31:08.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[27Jun2025 03:31:08.050] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 03:32:16.941] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:48043] logged in with entity id 19879 at (36.19037064034164, 51.0, 35.587945670948)
+[27Jun2025 03:32:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 03:32:47.030] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 lost connection: Timed out
+[27Jun2025 03:32:47.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 left the game
+[27Jun2025 03:34:18.076] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6598902e[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:51309): Took too long to log in
+[27Jun2025 03:34:18.076] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6598902e[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:51309) lost connection: Took too long to log in
+[27Jun2025 03:34:18.125] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Jun2025 03:34:37.822] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5baff8d6[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:43465) lost connection: Disconnected
+[27Jun2025 03:34:48.975] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2991fe[id=<null>,name=camilxdk1,properties={},legacy=false] (/127.251.208.206:34801) lost connection: Disconnected
+[27Jun2025 03:34:58.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [You Need a Mint]
+[27Jun2025 03:35:22.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: camilxdk1[/127.251.208.206:54981] logged in with entity id 20235 at (36.19037064034164, 51.0, 35.587945670948)
+[27Jun2025 03:35:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 joined the game
+[27Jun2025 03:37:29.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [You Need a Mint]

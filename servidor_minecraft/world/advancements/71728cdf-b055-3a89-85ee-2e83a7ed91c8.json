@@ -766,6 +766,7 @@
       "minecraft:cave_spider": "2025-06-24 20:52:50 +0000",
       "minecraft:piglin": "2025-06-27 03:15:42 +0000",
       "minecraft:silverfish": "2025-06-27 02:38:14 +0000",
+      "minecraft:enderman": "2025-06-27 03:38:20 +0000",
       "minecraft:vex": "2025-06-27 02:43:09 +0000",
       "minecraft:zombie": "2025-06-24 17:43:36 +0000",
       "minecraft:drowned": "2025-06-26 01:06:39 +0000"
@@ -9759,6 +9760,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-27 03:34:58 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
       "has_item": "2025-06-27 03:09:25 +0000"
@@ -9789,6 +9796,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-06-27 03:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
@@ -9801,6 +9814,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2025-06-27 03:30:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2025-06-27 03:14:44 +0000"
@@ -9810,6 +9829,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-06-27 03:30:05 +0000"
     },
     "done": true
   },
