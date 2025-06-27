@@ -15468,3 +15468,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 17:40:18.752] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
 [27Jun2025 17:40:26.698] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:andesite} -949 2331 2331 VisualFallingBlockEntity['Falling Andesite'/33497, l='ServerLevel[world]', x=-948.50, y=52.00, z=2331.50]
 [27Jun2025 17:40:50.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Dungeon Delving]
+[27Jun2025 17:42:56.705] [Server thread/INFO] [irons_spells_js/]: traveloptics:solar_flare
+[27Jun2025 17:42:56.705] [Server thread/INFO] [irons_spells_js/]: com.gametechbc.traveloptics.compat.spells.holy.SolarFlareSpell@7ab96d30
+[27Jun2025 17:43:43.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 17:43:43.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 17:47:20.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [New Age Librarian]
+[27Jun2025 17:47:40.096] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:healing_circle
+[27Jun2025 17:47:40.097] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.holy.HealingCircleSpell@3974fbdf
+[27Jun2025 17:48:43.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 17:48:43.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
