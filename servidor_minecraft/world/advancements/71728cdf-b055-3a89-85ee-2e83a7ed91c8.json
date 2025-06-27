@@ -9719,9 +9719,21 @@
     },
     "done": true
   },
+  "stellarity:end_city/whos_the_thief_now": {
+    "criteria": {
+      "open_chest_1": "2025-06-27 04:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
+    },
+    "done": true
+  },
+  "stellarity:end_city/portable_storage": {
+    "criteria": {
+      "craft_shulker_box": "2025-06-27 04:03:17 +0000"
     },
     "done": true
   },
@@ -9764,6 +9776,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-06-27 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_obsidian_heart": "2025-06-27 04:03:02 +0000"
     },
     "done": true
   },
@@ -9827,9 +9845,21 @@
     },
     "done": true
   },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-06-27 04:03:02 +0000"
+    },
+    "done": true
+  },
   "stellarity:recipes/slime_ball_from_ender_eye": {
     "criteria": {
       "has_item": "2025-06-27 03:09:25 +0000"
+    },
+    "done": true
+  },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-06-27 04:03:02 +0000"
     },
     "done": true
   },
@@ -9841,6 +9871,8 @@
   },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "end_midlands": "2025-06-27 04:05:33 +0000",
+      "ender_waste": "2025-06-27 04:05:19 +0000",
       "end_barrens": "2025-06-27 03:53:37 +0000"
     },
     "done": false
@@ -9875,6 +9907,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:end/obsidilith_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:obsidilith": "2025-06-27 04:02:53 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/purpur_altar": {
     "criteria": {
       "has_end_stone": "2025-06-27 03:57:21 +0000"
@@ -9884,6 +9922,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_obsidian_heart": "2025-06-27 04:03:02 +0000"
     },
     "done": true
   },
@@ -9902,6 +9946,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-06-27 03:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-27 04:03:02 +0000"
     },
     "done": true
   },
@@ -10019,6 +10069,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_obsidian_heart": "2025-06-27 04:03:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-06-27 03:56:26 +0000"
@@ -10028,6 +10084,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-06-27 03:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-27 04:08:20 +0000"
     },
     "done": true
   },

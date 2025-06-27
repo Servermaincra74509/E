@@ -7512,6 +7512,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_obsidian_heart": "2025-06-27 04:04:15 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-06-27 03:58:17 +0000"
@@ -7602,6 +7608,12 @@
     },
     "done": true
   },
+  "stellarity:recipes/purple_dye_from_chorus_fruit": {
+    "criteria": {
+      "has_item": "2025-06-27 04:03:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-06-27 03:58:17 +0000"
@@ -7614,8 +7626,16 @@
     },
     "done": true
   },
+  "stellarity:recipes/chorus_plant_from_fruit": {
+    "criteria": {
+      "has_item": "2025-06-27 04:03:42 +0000"
+    },
+    "done": true
+  },
   "stellarity:exploration/ender_adventurer": {
     "criteria": {
+      "end_midlands": "2025-06-27 04:05:33 +0000",
+      "ender_waste": "2025-06-27 04:05:19 +0000",
       "end_highlands": "2025-06-27 03:44:26 +0000",
       "end_barrens": "2025-06-27 03:50:34 +0000"
     },
@@ -7663,6 +7683,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_obsidian_heart": "2025-06-27 04:04:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-06-27 03:57:08 +0000"
@@ -7684,6 +7710,12 @@
   "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
       "has_purpur_block": "2025-06-27 03:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-06-27 04:03:42 +0000"
     },
     "done": true
   },
@@ -7804,6 +7836,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-06-27 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_obsidian_heart": "2025-06-27 04:04:15 +0000"
     },
     "done": true
   },

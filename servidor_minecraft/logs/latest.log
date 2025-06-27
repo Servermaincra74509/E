@@ -2875,3 +2875,8 @@ java.lang.Throwable: null
 [27Jun2025 03:53:37.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Remote Getaway]
 [27Jun2025 03:57:08.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Strengthened by Fire]
 [27Jun2025 03:57:14.838] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils
+[27Jun2025 04:02:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Obsidian Obliterator]
+[27Jun2025 04:03:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Portable Storage]
+[27Jun2025 04:08:20.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The City at the End of the Game]
+[27Jun2025 04:08:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Who's The Thief Now?]
+[27Jun2025 04:09:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Amateur Archaeologist]

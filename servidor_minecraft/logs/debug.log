@@ -19343,3 +19343,17 @@ java.lang.Throwable: null
 [27Jun2025 03:58:45.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 03:58:45.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jun2025 03:59:15.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [d9cf6fae-e4cf-448a-9495-b073af400cb8]
+[27Jun2025 04:00:27.276] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [d9cf6fae-e4cf-448a-9495-b073af400cb8]
+[27Jun2025 04:02:09.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [795957af-4d27-3957-9087-4f2291678558]
+[27Jun2025 04:02:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Obsidian Obliterator]
+[27Jun2025 04:03:17.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Portable Storage]
+[27Jun2025 04:03:45.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 04:03:45.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 04:08:20.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The City at the End of the Game]
+[27Jun2025 04:08:30.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Who's The Thief Now?]
+[27Jun2025 04:08:34.832] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.84 and blood value 15 for entity alexsmobs:cosmaw
+[27Jun2025 04:08:34.832] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.84 and blood value 15 for entity alexsmobs:cosmaw
+[27Jun2025 04:08:34.832] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 6.84 and blood value 15 for entity alexsmobs:cosmaw
+[27Jun2025 04:08:45.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 04:08:45.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 04:09:35.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Amateur Archaeologist]
