@@ -15423,3 +15423,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 17:20:08.252] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['Zairac74509'/18397, l='ServerLevel[world]', x=-40.17, y=-47.00, z=1379.28, removed=KILLED]
 [27Jun2025 17:20:15.067] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
 [27Jun2025 17:20:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Cavidad De Dulce:C:-49:1:1203:2:false:0:Internal-overworld-waypoints
+[27Jun2025 17:23:04.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! 8.12810781769358,-0.44482596439492283,6.361954210576414
+[27Jun2025 17:23:35.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[27Jun2025 17:23:35.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[27Jun2025 17:23:35.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[27Jun2025 17:23:35.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[27Jun2025 17:23:35.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[27Jun2025 17:23:35.672] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[27Jun2025 17:23:35.673] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.9 and blood value 6 for entity alexsmobs:gazelle
+[27Jun2025 17:23:43.022] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 17:23:43.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 17:23:47.530] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[27Jun2025 17:23:47.530] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 2.52 and blood value 15 for entity alexsmobs:tiger
+[27Jun2025 17:24:07.132] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.04 and blood value 7 for entity alexsmobs:froststalker
+[27Jun2025 17:25:25.807] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.02 and blood value 7 for entity alexsmobs:maned_wolf
+[27Jun2025 17:25:37.363] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 4.08 and blood value 15 for entity alexsmobs:kangaroo
+[27Jun2025 17:27:44.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 was doomed to fall by Gumbeeper
+[27Jun2025 17:27:45.828] [Server thread/DEBUG] [twilightforest/]: Player Zairac74509 (71728cdf-b055-3a89-85ee-2e83a7ed91c8) respawned and received items held in storage
+[27Jun2025 17:28:43.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 17:28:43.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 17:30:17.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: camilxdk1 moved too quickly! -931.362734929334,-59.0,1213.199999988079
+[27Jun2025 17:32:34.410] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:poison_arrow
+[27Jun2025 17:32:34.410] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.PoisonArrowSpell@c659703c
+[27Jun2025 17:32:41.256] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:wither_skull
+[27Jun2025 17:32:41.256] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.WitherSkullSpell@64d78c3b
+[27Jun2025 17:32:44.056] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:blood_step
+[27Jun2025 17:32:44.056] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.blood.BloodStepSpell@5ae9361b
+[27Jun2025 17:33:42.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:boss:B:-1026:63:2261:5:false:0:Internal-overworld-waypoints
+[27Jun2025 17:33:43.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 17:33:43.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 17:34:07.762] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[27Jun2025 17:36:01.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Premium!]
+[27Jun2025 17:36:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has completed the challenge [Necronomicon]
+[27Jun2025 17:36:18.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <camilxdk1> xaero-waypoint:Shared Location:S:-939:14:2350:9:false:0:Internal-overworld-waypoints
+[27Jun2025 17:36:46.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=67, z=1386} BlockPos{x=-462, y=65, z=1387}
+[27Jun2025 17:36:47.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-461, y=68, z=1389} BlockPos{x=-463, y=67, z=1390}
+[27Jun2025 17:36:47.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-463, y=69, z=1390} BlockPos{x=-464, y=69, z=1391}
+[27Jun2025 17:38:14.577] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:stomp
+[27Jun2025 17:38:14.577] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.StompSpell@a5ec887b
+[27Jun2025 17:38:43.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 17:38:43.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 17:40:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [New Age Librarian]
+[27Jun2025 17:40:18.752] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:spectral_hammer
+[27Jun2025 17:40:18.752] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.evocation.SpectralHammerSpell@7b137a2b
+[27Jun2025 17:40:26.698] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:andesite} -949 2331 2331 VisualFallingBlockEntity['Falling Andesite'/33497, l='ServerLevel[world]', x=-948.50, y=52.00, z=2331.50]
+[27Jun2025 17:40:50.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Dungeon Delving]
