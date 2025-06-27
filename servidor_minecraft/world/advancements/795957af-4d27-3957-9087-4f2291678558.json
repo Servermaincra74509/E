@@ -4881,6 +4881,9 @@
       "minecraft:skeleton": "2025-06-26 18:49:30 +0000",
       "minecraft:vindicator": "2025-06-26 00:49:02 +0000",
       "minecraft:spider": "2025-06-26 01:51:14 +0000",
+      "minecraft:evoker": "2025-06-27 02:59:50 +0000",
+      "minecraft:witch": "2025-06-27 03:02:50 +0000",
+      "minecraft:silverfish": "2025-06-27 03:21:57 +0000",
       "minecraft:vex": "2025-06-27 02:54:05 +0000",
       "minecraft:zombie": "2025-06-26 17:14:26 +0000"
     },
@@ -6686,9 +6689,669 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-27 03:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-06-27 02:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-06-27 03:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/final_showdown": {
+    "criteria": {
+      "spawn_dragon_first_time": "2025-06-27 03:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-27 03:07:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "stellarity:events/first_time_in_end": {
+    "criteria": {
+      "requirement": "2025-06-27 03:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-27 03:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-27 03:23:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-27 03:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-27 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-27 03:14:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-27 03:07:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-06-27 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-06-27 03:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "celestial_core:recipes/misc/earth_core": {
+    "criteria": {
+      "has_crying_obsidian": "2025-06-27 03:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-27 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-27 03:14:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-06-27 03:05:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-27 03:16:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-27 03:19:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "stellarity:story/journeys_end": {
+    "criteria": {
+      "activate_portal": "2025-06-27 03:22:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-06-27 03:16:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/altar_cleansing_new": {
+    "criteria": {
+      "has_book": "2025-06-27 03:07:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-27 03:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-27 03:15:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-27 03:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-27 03:15:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-06-27 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-06-27 03:15:30 +0000"
     },
     "done": true
   },

@@ -2790,3 +2790,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'yogmod:beige_concrete'
 [27Jun2025 02:57:01.841] [Server thread/INFO] [irons_spells_js/]: irons_spellbooks:firefly_swarm
 [27Jun2025 02:57:01.841] [Server thread/INFO] [irons_spells_js/]: io.redspace.ironsspellbooks.spells.nature.FireflySwarmSpell@e01e560
 [27Jun2025 02:57:56.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Alex's Caves]
+[27Jun2025 02:59:16.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 lost connection: Timed out
+[27Jun2025 02:59:16.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 left the game
+[27Jun2025 03:00:01.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zairac74509[/127.94.87.232:53515] logged in with entity id 13990 at (-1353.5, -15.964159374955445, 2257.5)
+[27Jun2025 03:00:01.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 joined the game
+[27Jun2025 03:08:56.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Who is Cutting Onions?]
+[27Jun2025 03:09:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Strengthened by Fire]
+[27Jun2025 03:12:22.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
+[27Jun2025 03:12:45.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved wrongly!
+[27Jun2025 03:14:44.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Oh Shiny]
+[27Jun2025 03:15:04.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Those Were the Days]
+[27Jun2025 03:16:11.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [War Pigs]
+[27Jun2025 03:16:41.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [It Belongs in a Museum]
+[27Jun2025 03:20:24.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zairac74509> xaero-waypoint:Portal del End:P:-1301:24:2289:3:false:0:Internal-overworld-waypoints
+[27Jun2025 03:22:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has reached the goal [Journey's End]
+[27Jun2025 03:22:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has reached the goal [Journey's End]
+[27Jun2025 03:22:50.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [The End?]
+[27Jun2025 03:22:51.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zairac74509 moved too quickly! 1399.800000011921,26.343178127111386,-2286.0586027386935
+[27Jun2025 03:22:55.344] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[27Jun2025 03:22:55.345] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[27Jun2025 03:22:57.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6616ms or 132 ticks behind
+[27Jun2025 03:23:01.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [The End?]
+[27Jun2025 03:24:08.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Sacrificial Ritual]
+[27Jun2025 03:24:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zairac74509 has made the advancement [Final Showdown]
+[27Jun2025 03:24:29.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Final Showdown]
+[27Jun2025 03:28:07.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: camilxdk1 has made the advancement [Take Aim]
